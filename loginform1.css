@@ -1,0 +1,77 @@
+.wall{
+	    width: 100%;
+    height: 100%;
+    background: #60874e;
+    background-position: center;
+    position: absolute;
+	
+}
+
+#login-box{
+	border: 4px solid black;
+    background: #60874e;
+    position: absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 387px;
+    height: 547px;
+    top: 178px;
+    left: 428px;
+}
+
+
+.res{
+	    position: absolute;
+    left: 65px;
+    top: 74px;
+    font-size: 25px;
+    color: aliceblue;
+}
+
+.cancel{
+	    position: absolute;
+    top: 37px;
+    left: 17px;
+    font-size: 17px;
+}
+
+.input-field{
+	    position: relative;
+    top: 122px;
+    margin: 12px;
+    width: 142px;
+    text-align: center;
+    padding: 8px;
+}
+
+.field{
+	    position: relative;
+    top: 130px;
+    padding: 8px;
+    margin: 12px;
+    width: 322px;
+}
+
+.btn-login{
+	    position: relative;
+    top: 145px;
+    margin: 12px;
+    width: 122px;
+    padding: 8px;
+}
+
+a:hover{
+	color:red;
+}
+
+.wall-logo{
+	    width: 90%;
+    height: 63%;
+    background-image: url(logo.png.png);
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 118px;
+    left: 21px;
+    opacity: 0.5;
+}
